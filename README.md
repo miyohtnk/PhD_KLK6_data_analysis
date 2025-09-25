@@ -76,5 +76,6 @@ Running under: Windows 11 Home x64 (build 26100.6584), version 24H2
 | seaborn  | 0.13.2  |
 | statsmodels  | 0.14.4  |
 | dateutil  | 2.9.0.post0  |
+| pingouin  | 0.5.5  |
 
 
