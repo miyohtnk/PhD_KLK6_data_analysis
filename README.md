@@ -9,8 +9,8 @@ in the manuscript is provided in this repository.
 - [Statistical analysis and visualization file](./KLK6_ELISA_data_analysis.ipynb)
 
 ## Data files
-The data files are available from: 
-- [Repository]()
+The data files will become available at publication: 
+- [Repository]() (currently empty)
 
 ## Technology requirements
 Users should have access to a computer with admin privileges. For a smooth experience running Python scripts and handling data throughout an entire session, 
