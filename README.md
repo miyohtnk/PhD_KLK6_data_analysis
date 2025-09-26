@@ -4,11 +4,13 @@ Chatanaka MK, Soosaipillai A, Morato X, Diamandis A. Human Kallikrein 6 in the c
 non-progressive Alzheimer’s disease. 2025. _in preparation._
 
 ## Scripts
-The script, raw data and clinical information used to generate figures and results 
+The script used to generate figures and results 
 in the manuscript is provided in this repository. 
 - [Statistical analysis and visualization file](./KLK6_ELISA_data_analysis.ipynb)
-- [Clinical information](20240321_400CSF_selection_for_Toronto_reduced_FC_Corrected.xlsx)
-- [Raw KLK6 data](KLK6_ELISA_data_correct_for_dilution.xlsx)
+
+## Data files
+The data files are available from: 
+- [Repository]()
 
 ## Technology requirements
 Users should have access to a computer with admin privileges. For a smooth experience running Python scripts and handling data throughout an entire session, 
